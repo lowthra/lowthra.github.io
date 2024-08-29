@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://lowthra.github.io/sitemap.html.gz
+Sitemap: https://lowthra.github.io/app/sitemap.html.gz
+Sitemap: https://lowthra.github.io/assets/sitemap.html.gz
+Sitemap: https://lowthra.github.io/css/sitemap.html.gz
+Sitemap: https://lowthra.github.io/includes/sitemap.html.gz
+Sitemap: https://lowthra.github.io/item/sitemap.html.gz
+Sitemap: https://lowthra.github.io/src/sitemap.html.gz
